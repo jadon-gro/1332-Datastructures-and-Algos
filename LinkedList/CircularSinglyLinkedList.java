@@ -1,5 +1,11 @@
 import java.util.NoSuchElementException;
-
+/**
+ * Your implementation of various graph algorithms.
+ *
+ * @author Jadon Grossberg
+ * @version 1.0
+ */
+public class Gr
 public class CircularSinglyLinkedList<T> {
 
 

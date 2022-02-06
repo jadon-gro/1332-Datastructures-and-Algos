@@ -1,4 +1,8 @@
-
+/**
+ * Node class used for implementing the BST.
+ * @author CS 1332 TAs
+ * @version 1.0
+ */
 public class LinkedNode<T> {
 
     private T data;

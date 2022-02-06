@@ -1,8 +1,5 @@
 /**
  * Node class used for implementing the BST.
- *
- * DO NOT MODIFY THIS FILE!!
- *
  * @author CS 1332 TAs
  * @version 1.0
  */
